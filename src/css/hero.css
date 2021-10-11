@@ -1,0 +1,19 @@
+.hero {
+  margin-block-start: -86px;
+}
+.hero__legend {
+  font-size: 500%;
+}
+@media only screen and (max-width: 991px) {
+  .hero {
+    margin-block-start: 86px;
+  }
+  .hero__legend {
+    font-size: 400%;
+  }
+}
+@media only screen and (max-width: 575px) {
+  .hero__legend {
+    font-size: 200%;
+  }
+}

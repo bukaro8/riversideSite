@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/riversideSite/static/css/main.eaa5ccfa.chunk.css",
-    "main.js": "/riversideSite/static/js/main.fcef3fd4.chunk.js",
-    "main.js.map": "/riversideSite/static/js/main.fcef3fd4.chunk.js.map",
+    "main.js": "/riversideSite/static/js/main.1652860c.chunk.js",
+    "main.js.map": "/riversideSite/static/js/main.1652860c.chunk.js.map",
     "runtime-main.js": "/riversideSite/static/js/runtime-main.d30de266.js",
     "runtime-main.js.map": "/riversideSite/static/js/runtime-main.d30de266.js.map",
     "static/css/2.4659568d.chunk.css": "/riversideSite/static/css/2.4659568d.chunk.css",
-    "static/js/2.12fca6fc.chunk.js": "/riversideSite/static/js/2.12fca6fc.chunk.js",
-    "static/js/2.12fca6fc.chunk.js.map": "/riversideSite/static/js/2.12fca6fc.chunk.js.map",
+    "static/js/2.82f4802f.chunk.js": "/riversideSite/static/js/2.82f4802f.chunk.js",
+    "static/js/2.82f4802f.chunk.js.map": "/riversideSite/static/js/2.82f4802f.chunk.js.map",
     "index.html": "/riversideSite/index.html",
     "static/css/2.4659568d.chunk.css.map": "/riversideSite/static/css/2.4659568d.chunk.css.map",
     "static/css/main.eaa5ccfa.chunk.css.map": "/riversideSite/static/css/main.eaa5ccfa.chunk.css.map",
-    "static/js/2.12fca6fc.chunk.js.LICENSE.txt": "/riversideSite/static/js/2.12fca6fc.chunk.js.LICENSE.txt",
+    "static/js/2.82f4802f.chunk.js.LICENSE.txt": "/riversideSite/static/js/2.82f4802f.chunk.js.LICENSE.txt",
     "static/media/aa3.a0979118.jpg": "/riversideSite/static/media/aa3.a0979118.jpg",
     "static/media/britishassociation.1e3d6561.png": "/riversideSite/static/media/britishassociation.1e3d6561.png",
     "static/media/facebook.33560244.svg": "/riversideSite/static/media/facebook.33560244.svg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.d30de266.js",
     "static/css/2.4659568d.chunk.css",
-    "static/js/2.12fca6fc.chunk.js",
+    "static/js/2.82f4802f.chunk.js",
     "static/css/main.eaa5ccfa.chunk.css",
-    "static/js/main.fcef3fd4.chunk.js"
+    "static/js/main.1652860c.chunk.js"
   ]
 }
